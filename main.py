@@ -1,7 +1,7 @@
 from kivymd.app import MDApp
 from kivymd.uix.dialog import MDDialog
 from kivymd.uix.boxlayout import MDBoxLayout
-from kivymd.uix.pickers import MDDatePicker
+from kivymd.uix.picker import MDDatePicker
 from datetime import datetime
 from kivymd.uix.list import TwoLineAvatarIconListItem, ILeftBodyTouch
 from kivymd.uix.selectioncontrol import MDCheckbox
